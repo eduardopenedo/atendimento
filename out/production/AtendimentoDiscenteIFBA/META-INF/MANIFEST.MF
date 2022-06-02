@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: br.edu.ifba.atendimento_discente.Main
+Class-Path: mssql-jdbc-10.2.1.jre17.jar
+

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="AtendimentoDiscenteIFBA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AtendimentoDiscenteIFBA_jar</output-path>
+    <root id="root">
+      <element id="archive" name="AtendimentoDiscenteIFBA.jar">
+        <element id="module-output" name="AtendimentoDiscenteIFBA" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../Desktop/mssql-jdbc-10.2.1.jre17.jar" />
+    </root>
+  </artifact>
+</component>
